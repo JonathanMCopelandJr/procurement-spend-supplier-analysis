@@ -1,7 +1,7 @@
 # Procurement Spend & Supplier Performance Analysis
 
 <p align="center">
-  <img src="images/dashboard_preview.png" alt="Procurement performance dashboard preview" width="100%">
+  <img src="dashboard_preview.png" alt="Procurement performance dashboard preview" width="100%">
 </p>
 
 <p align="center">
@@ -85,17 +85,16 @@ Findings below are computed directly from the dataset in `data/synthetic_procure
 
 ### Supplier spend and delivery signal
 
-![Top supplier spend](images/supplier_spend.png)
+![Top supplier spend](supplier_spend.png)
 
 ### On-time delivery performance
 
-![On-time delivery](images/on_time_delivery.png)
+![On-time delivery](on_time_delivery.png)
 
 ### Category spend
 
-![Category spend](images/category_spend.png)
+![Category spend](category_spend.png)
 
-> **Note:** Chart images are generated locally by running the analysis script (see below) and are not yet committed to this repository. Run the script and commit the `images/` folder to complete the visuals.
 
 ## How to run
 
